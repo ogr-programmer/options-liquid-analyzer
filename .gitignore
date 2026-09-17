@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.DS_Store
+
+# Local input data and generated analysis results
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
